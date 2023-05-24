@@ -1,6 +1,6 @@
 # GarbageCollection
 
-<h4>💡가비지 컬렉션(Garbage Collection) 이란?</h4>
+<h4>가비지 컬렉션(Garbage Collection) 이란?</h4>
 프로그램에서 동적으로 할당된 메모리 중에서 더 이상 사용하지 않는 메모리를 탐지하고 해제하는 자동화된 메모리 관리 기술입니다.<br>
 
 <h4> 사용 이유</h4>
